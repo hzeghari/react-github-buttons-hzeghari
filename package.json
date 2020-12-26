@@ -1,6 +1,6 @@
 {
   "name": "react-github-buttons-hzeghari",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "React Components for dynamic buttons for github repo's star, fork etc.",
   "keywords": [
     "react",
@@ -17,7 +17,7 @@
   "repository": "https://github.com/hzeghari/react-github-buttons-hzeghari",
   "bugs": {
     "url": "https://github.com/hzeghari/react-github-buttons-hzeghari/issues",
-    "email": "vaibhav.hrt@gmail.com"
+    "email": "zeghari.hamzaa@gmail.com"
   },
   "homepage": "https://vaibhavhrt.github.io/react-github-buttons/",
   "main": "dist/index.js",

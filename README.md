@@ -24,7 +24,7 @@ npm i react-github-buttons-hzeghari
 ```tsx
 import React from 'react';
 
-import { Fork, Star, UsedBy, Watch } from 'react-github-buttons';
+import { Fork, Star, UsedBy, Watch } from 'react-github-buttons-hzeghari';
 
 function App() {
   return (
