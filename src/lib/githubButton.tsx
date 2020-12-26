@@ -41,10 +41,10 @@ function getDataForVariant(
     countUrl = `https://github.com/${owner}/${repo}/network/members`;
     return { title, btnTitle, label, countUrl, Icon: ForkIcon };
   } else if (variant === 'watch') {
-    title = 'Watch';
+    title = 'Issues';
     btnTitle = '';
     label = `${count} users are watching this repository`;
-    countUrl = `https://github.com/${owner}/${repo}/watchers`;
+    countUrl = `https://github.com/${owner}/${repo}/issues`;
     return { title, btnTitle, label, countUrl, Icon: WatchIcon };
   } else if (variant === 'usedby') {
     title = 'Used by';
