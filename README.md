@@ -12,11 +12,11 @@ Provies GitHub's Star, Fork, Watch etc.(See full list below) buttons with realti
 ## Install
 
 ```bash
-yarn add react-github-buttons
+yarn add react-github-buttons-hzeghari
 ```
 or
 ```bash
-npm i react-github-buttons
+npm i react-github-buttons-hzeghari
 ```
 
 ## Usage
